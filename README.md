@@ -4,7 +4,7 @@ This project is a serverless application that receives a webhook via POST or GET
 
 The architecture for this app looks like the following diagram:
 
-![](./assets/generic-webhook-to-sns.png)
+![](./assets/eventmonitor.png)
 
 
 
